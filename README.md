@@ -5,6 +5,8 @@
 
 ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGabrielFontes&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielFontes)](https://github.com/LucasGabrielFontes/github-readme-stats)
+
 ## Linguagens que utilizo constantemente
 
 <div style = "display: inline_block"><br/>
