@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l_ucas.gabriel/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClpwZqUy63ZvtdONqKQ6IMw)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-fontes-da-silva-02b12930a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzSN1YZtVSs2o5Wy%2FMk1FbQ%3D%3D)
 
 ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGabrielFontes&show_icons=true&theme=dark)
 
