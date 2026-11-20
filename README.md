@@ -1,8 +1,8 @@
 # Olá! Eu sou Lucas Gabriel Fontes da Silva 👋
 
-🎓 Estudante de Ciência da Computação  
-💻 Desenvolvedor focado em otimização e desenvolvimento de software  
-🚀 Interessado em Pesquisa Operacional, Programação Competitiva, Heurísticas e Desenvolvimento Full Stack  
+- Estudante de Ciência da Computação  
+- Desenvolvedor focado em Otimização e desenvolvimento de software  
+- Interessado em Pesquisa Operacional, Programação Competitiva, Heurísticas e Desenvolvimento Full Stack  
 
 ---
 
@@ -18,9 +18,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasGabrielFontes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasGabrielFontes&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasGabrielFontes&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasGabrielFontes&theme=tokyonight"/>
 
 </div>
 
@@ -34,6 +33,7 @@
 
 <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -69,25 +69,15 @@
 
 ## 🧠 Áreas de Interesse
 
-- Programação Competitiva
 - Pesquisa Operacional
 - Metaheurísticas
 - Otimização Combinatória
-- Desenvolvimento Full Stack
 - Estruturas de Dados e Algoritmos
-
----
-
-## 📌 Atualmente
-
-📚 Estudando heurísticas e otimização para problemas clássicos de Pesquisa Operacional  
-⚙️ Desenvolvendo projetos com React, TypeScript e PostgreSQL  
-🏆 Evoluindo constantemente em algoritmos e programação competitiva  
-
----
+- Programação Competitiva
+- Desenvolvimento Full Stack
 
 <div align="center">
 
-### “Em constante evolução.” 🚀
+### “Em constante evolução.”
 
 </div>
