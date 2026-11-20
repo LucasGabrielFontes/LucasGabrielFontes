@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 Redes sociais
+## Redes sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l_ucas.gabriel/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClpwZqUy63ZvtdONqKQ6IMw)
@@ -14,7 +14,7 @@
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Linguagens
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 🧠 Áreas de Interesse
+## Áreas de Interesse
 
 - Pesquisa Operacional
 - Metaheurísticas
